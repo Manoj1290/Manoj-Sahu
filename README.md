@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -20,7 +20,7 @@
 <link rel="alternate" href="https://www.claudiatenhoope.com/nl/" hreflang="nl" />
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Claudia ten Hoope - Freelance data scientist</title>
+	<title>Manoj Sahu - Freelance data scientist</title>
 	<meta name="description" content="I am a freelance data scientist/analyst and translate data into valuable insights. My goal is to improve results, make the right decisions and save costs." />
 	<link rel="canonical" href="https://www.claudiatenhoope.com/" />
 	<meta property="og:locale" content="en_US" />
