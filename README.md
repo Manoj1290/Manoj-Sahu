@@ -19,4 +19,12 @@ ctx.fillRect(10,10,150,80);
 
 </body>
 </html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
 
