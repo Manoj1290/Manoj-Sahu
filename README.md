@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<h1 style="display:none">Claudia ten Hoope - Freelance data analyst and data scientist</h1>
+	<h1 style="display:none">Manoj Sahu - Freelance data analyst and data scientist</h1>
 	<style>
 		h1{display: none;}
 	</style>
