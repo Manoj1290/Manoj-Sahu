@@ -6,7 +6,7 @@
 Your browser does not support the HTML canvas tag.</canvas>
 
 <script>
-var c = document.getElementById("myCanvas");
+var c = document.getElementById("myCanvas"); 
 var ctx = c.getContext("2d");
 // Create gradient
 var grd = ctx.createLinearGradient(0,0,200,0);
