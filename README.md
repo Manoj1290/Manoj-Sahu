@@ -72,12 +72,37 @@
     <section class="contact">
       <h2>Contact Me</h2>
       <p>Feel free to reach out to me. Email: manojsahu2114@gmail.com</p>
-    </section>
+     </section>
   </div>
 
   <script>
-    // JavaScript code for the portfolio website (if needed)
-    // You can add interactivity or functionality here
+    // JavaScript code for the portfolio website
+    // Add interactivity or functionality here
+
+    // Example: Display an alert when the contact form is submitted
+    var contactForm = document.querySelector('.contact form');
+    contactForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      alert('Thank you for contacting me!');
+    });
+
+    // Example: Toggle visibility of project descriptions
+    var projectDescriptions = document.querySelectorAll('.project p');
+    projectDescriptions.forEach(function(description) {
+      description.style.display = 'none'; // Hide descriptions initially
+    });
+
+    var projectTitles = document.querySelectorAll('.project h3');
+    projectTitles.forEach(function(title) {
+      title.addEventListener('click', function() {
+        var description = this.nextElementSibling;
+        if (description.style.display === 'none') {
+          description.style.display = 'block';
+        } else {
+          description.style.display = 'none';
+        }
+      });
+    });
   </script>
 </body>
 </html>
