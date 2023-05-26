@@ -46,7 +46,7 @@
 </head>
 <body>
   <header>
-    <h1>Manjo Sahu</h1>
+    <h1>Manoj Sahu</h1>
     <h2>Data Analyst</h2>
   </header>
 
