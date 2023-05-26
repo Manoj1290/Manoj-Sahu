@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html> 
 <head>  
   <meta charset="UTF-8">
   <title>Manoj Sahu - Data Analyst</title>
