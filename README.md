@@ -42,6 +42,7 @@
         
         .section-content {
             margin-bottom: 30px;
+            text-align: center;
         }
         
         .contact-info {
@@ -61,7 +62,7 @@
     </style>
 </head>
 <body>
-    <h1>Data Analyst Profile</h1>
+    <h1>Business Intelligence Analyst</h1>
 
     <div class="section">
         <h2 class="section-heading">Summary</h2>
