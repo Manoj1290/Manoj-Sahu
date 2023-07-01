@@ -63,7 +63,7 @@
     </style>
     <style>
 body {
-  background-image: url('bi image.jpg');
+  background-image: url('circle-g58623b148_640.jpg');
 }
 </style>
 </head>
