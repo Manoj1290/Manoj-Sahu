@@ -71,7 +71,7 @@
 
     <div class="section">
         <h2 class="section-heading">Skills</h2>
-        <p class="section-content">My skills include:</p>
+        
         <ul>
             <li>Data cleaning and preprocessing</li>
             <li>Data analysis and interpretation</li>
