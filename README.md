@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html> 
 <head>  
   <meta charset="UTF-8">
@@ -71,7 +71,7 @@
 
     <section class="contact">
       <h2>Contact Me</h2>
-      <p>Feel free to reach out to me. Email: manojsahu2114@gmail.com</p>
+      <p>Feel free to reach out to me. Email: manojkunasahu@gmail.com</p>
      </section>
   </div>
 
