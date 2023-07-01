@@ -60,11 +60,11 @@
       <h2>Projects</h2>
       <div class="project">
         <h3>Project 1: Sales Analysis</h3>
-        <p>Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>Description of Project 1. </p>
       </div>
       <div class="project">
         <h3>Project 2: Customer Segmentation</h3>
-        <p>Description of Project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>Description of Project 2. </p>
       </div>
       <!-- Add more projects here -->
     </section>
