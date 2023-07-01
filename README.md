@@ -64,7 +64,8 @@
 
     <div class="section">
         <h2 class="section-heading">Experience</h2>
-        <p class="section-content">I have worked as a data analyst for XYZ Company, where I successfully analyzed large datasets, identified trends, and provided valuable insights to inform strategic decision-making.</p>
+        <p class="section-content">As an analyst with over 3+ years of experience, I have honed my skills in analyzing user behavior, identifying growth opportunities, and providing actionable insights to support strategic marketing initiatives. </p>
+        <p class="section-content">I have a proven track record of collaborating with cross-functional teams, including strategy, marketing, business development, and content, to meet their data analytics needs effectively. </p>
     </div>
 
     <div class="section">
@@ -76,7 +77,7 @@
         <h2 class="section-heading">Contact Information</h2>
         <div class="contact-info">
             <p>Email: manojkunasahu@gmail.com</p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/sahumanojk/">linkedin.com/in/yourprofile</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/sahumanojk/">linkedin.com/in/myprofile</a></p>
         </div>
     </div>
 </body>
