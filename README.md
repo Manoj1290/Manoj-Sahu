@@ -11,8 +11,8 @@
       padding: 0;
     }
     header {
-      background-color: #6995E8;
-      color: #E9F1FF;
+      background-color: #0C346F;
+      color: #FEFEFE;
       padding: 20px;
       text-align: center;
     }
@@ -34,7 +34,7 @@
     .project {
       margin-bottom: 20px;
       padding: 20px;
-      background-color: #f4f4f4;
+      background-color: #D5E2E7;
     }
     .project h3 {
       margin-top: 0;
