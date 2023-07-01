@@ -3,29 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analyst Profile</title>
+    <title>Business Intelligence Analyst</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f1f1f1;
+            background-color: #5E7BC6;
         }
         
         h1 {
             text-align: center;
             margin-bottom: 20px;
-            color: #333;
+            color: #123754;
         }
         
         p {
             line-height: 1.6;
             margin-bottom: 10px;
-            text-align: justify;
+            text-align: center;
         }
         
         .section {
-            background-color: #fff;
+            background-color: #C8C488;
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 4px;
@@ -37,7 +37,7 @@
             font-weight: bold;
             margin-top: 0;
             margin-bottom: 10px;
-            color: #555;
+            color: #0A5669;
         }
         
         .section-content {
@@ -52,11 +52,11 @@
         .contact-info p {
             display: inline-block;
             margin-right: 20px;
-            color: #555;
+            color: #209E2D;
         }
         
         a {
-            color: #555;
+            color: #CA881C;
         }
     </style>
 </head>
