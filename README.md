@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #5E7BC6;
+            background-color: #d4dffa;
         }
         
         h1 {
@@ -25,7 +25,7 @@
         }
         
         .section {
-            background-color: #C8C488;
+            background-color: #f5f2cb;
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 4px;
@@ -52,11 +52,11 @@
         .contact-info p {
             display: inline-block;
             margin-right: 20px;
-            color: #209E2D;
+            color: #29632f;
         }
         
         a {
-            color: #CA881C;
+            color: #29632f;
         }
     </style>
 </head>
