@@ -9,8 +9,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #fafae1;
-            background-image: url('[circle-g58623b148_640.jpg](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg)');
+            
+            background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg');
         }
         
         h1 {
