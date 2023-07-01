@@ -9,23 +9,35 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
+            background-color: #f1f1f1;
         }
         
         h1 {
             text-align: center;
             margin-bottom: 20px;
+            color: #333;
         }
         
         p {
             line-height: 1.6;
             margin-bottom: 10px;
+            text-align: justify;
+        }
+        
+        .section {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         
         .section-heading {
             font-size: 18px;
             font-weight: bold;
-            margin-top: 30px;
+            margin-top: 0;
             margin-bottom: 10px;
+            color: #555;
         }
         
         .section-content {
@@ -34,11 +46,17 @@
         
         .contact-info {
             margin-top: 30px;
+            text-align: center;
         }
         
         .contact-info p {
             display: inline-block;
             margin-right: 20px;
+            color: #555;
+        }
+        
+        a {
+            color: #555;
         }
     </style>
 </head>
