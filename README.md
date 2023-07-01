@@ -61,6 +61,11 @@
             color: #29632f;
         }
     </style>
+    <style>
+p {
+  background-image: url('bi image.jpg');
+}
+</style>
 </head>
 <body>
     <h1>Business Intelligence Analyst</h1>
