@@ -38,6 +38,7 @@
             margin-top: 0;
             margin-bottom: 10px;
             color: #0A5669;
+            text-align: center;
         }
         
         .section-content {
