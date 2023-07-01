@@ -1,108 +1,83 @@
 
-<html> 
-<head>  
-  <meta charset="UTF-8">
-  <title>Manoj Sahu - Data Analyst</title>
-  <style>
-    /* CSS styles for the portfolio website */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #0C346F;
-      color: #FEFEFE;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 20px;
-    }
-    .about-me {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    .projects {
-      margin-bottom: 30px;
-    }
-    .project {
-      margin-bottom: 20px;
-      padding: 20px;
-      background-color: #D5E2E7;
-    }
-    .project h3 {
-      margin-top: 0;
-    }
-    .contact {
-      text-align: center;
-    }
-  </style>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analyst Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        p {
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+        
+        .section-heading {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        
+        .section-content {
+            margin-bottom: 30px;
+        }
+        
+        .contact-info {
+            margin-top: 30px;
+        }
+        
+        .contact-info p {
+            display: inline-block;
+            margin-right: 20px;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Manoj Sahu</h1>
-    <h2>Data Analyst</h2>
-  </header>
+    <h1>Data Analyst Profile</h1>
 
-  <div class="container">
-    <section class="about-me">
-      <h2>About Me</h2>
-      <p>Welcome to my portfolio website! I am a data analyst with expertise in analyzing and interpreting complex data sets. I am passionate about extracting meaningful insights to drive informed business decisions.</p>
-    </section>
+    <div class="section">
+        <h2 class="section-heading">Summary</h2>
+        <p class="section-content">I am a skilled data analyst with a passion for extracting insights from complex datasets. With a strong analytical mindset and expertise in data visualization, I am adept at transforming data into actionable recommendations.</p>
+    </div>
 
-    <section class="projects">
-      <h2>Projects</h2>
-      <div class="project">
-        <h3>Project 1: Sales Analysis</h3>
-        <p>Description of Project 1. </p>
-      </div>
-      <div class="project">
-        <h3>Project 2: Customer Segmentation</h3>
-        <p>Description of Project 2. </p>
-      </div>
-      <!-- Add more projects here -->
-    </section>
+    <div class="section">
+        <h2 class="section-heading">Skills</h2>
+        <p class="section-content">My skills include:</p>
+        <ul>
+            <li>Data cleaning and preprocessing</li>
+            <li>Data analysis and interpretation</li>
+            <li>Data visualization using tools like Excel, Looker Studio etc.</li>
+            <li>Statistical analysis and modeling</li>
+            <li>SQL database querying</li>
+        </ul>
+    </div>
 
-    <section class="contact">
-      <h2>Contact Me</h2>
-      <p>Feel free to reach out to me. Email: manojkunasahu@gmail.com</p>
-     </section>
-  </div>
+    <div class="section">
+        <h2 class="section-heading">Experience</h2>
+        <p class="section-content">I have worked as a data analyst for XYZ Company, where I successfully analyzed large datasets, identified trends, and provided valuable insights to inform strategic decision-making.</p>
+    </div>
 
-  <script>
-    // JavaScript code for the portfolio website
-    // Add interactivity or functionality here
+    <div class="section">
+        <h2 class="section-heading">Education</h2>
+        <p class="section-content">I hold a Master's degree in Business Analytics from Liverpool John Moores University, where I gained a solid foundation in statistical methods and data analysis techniques.</p>
+    </div>
 
-    // Example: Display an alert when the contact form is submitted
-    var contactForm = document.querySelector('.contact form');
-    contactForm.addEventListener('submit', function(event) {
-      event.preventDefault();
-      alert('Thank you for contacting me!');
-    });
-
-    // Example: Toggle visibility of project descriptions
-    var projectDescriptions = document.querySelectorAll('.project p');
-    projectDescriptions.forEach(function(description) {
-      description.style.display = 'none'; // Hide descriptions initially
-    });
-
-    var projectTitles = document.querySelectorAll('.project h3');
-    projectTitles.forEach(function(title) {
-      title.addEventListener('click', function() {
-        var description = this.nextElementSibling;
-        if (description.style.display === 'none') {
-          description.style.display = 'block';
-        } else {
-          description.style.display = 'none';
-        }
-      });
-    });
-  </script>
+    <div class="section">
+        <h2 class="section-heading">Contact Information</h2>
+        <div class="contact-info">
+            <p>Email: manojkunasahu@gmail.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/sahumanojk/">linkedin.com/in/yourprofile</a></p>
+        </div>
+    </div>
 </body>
 </html>
