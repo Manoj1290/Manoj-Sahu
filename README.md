@@ -18,10 +18,6 @@
             color: #123754;
         }
 
-#start
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
-
         
         p {
             line-height: 1.6;
@@ -68,7 +64,7 @@
     </style>
     <style>
 body {
-  background-image: url('circle-g58623b148_640.jpg');
+  background-image: url('[circle-g58623b148_640.jpg](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg)');
 }
 </style>
 </head>
