@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #d4dffa;
+            background-color: #fafae1;
         }
         
         h1 {
