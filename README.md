@@ -11,6 +11,7 @@
             padding: 20px;
             
             background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg');
+            background-repeat: no-repeat;
         }
         
         h1 {
