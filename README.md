@@ -62,7 +62,7 @@
         }
     </style>
     <style>
-p {
+body {
   background-image: url('bi image.jpg');
 }
 </style>
