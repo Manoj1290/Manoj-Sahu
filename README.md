@@ -9,9 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            
-            background-image: url('https://img.freepik.com/free-photo/glowing-blue-pulse-trace-analyzing-healthcare-data-generated-by-ai_188544-31056.jpg?t=st=1688286304~exp=1688286904~hmac=495d32359030a79da3b10d87f92ac630283e3d77bee5042ee1f4989f2635f938&w=1380');
-            background-repeat: no-repeat;
+            background-color: #ededc7;
         }
         
         h1 {
