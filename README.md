@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #ededc7;
+            background-color: #def2fa;
         }
         
         h1 {
@@ -26,7 +26,7 @@
         }
         
         .section {
-            background-color: #f5f2cb;
+            background-color: #c1dce6;
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 4px;
