@@ -12,7 +12,7 @@
     <header>
         <div class="header-content">
             <h1>Your Name</h1>
-            <p>Business Intelligence Practitioner</p>
+            <p>Business Intelligene Practitioner</p>
         </div>
     </header>
 
